@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "24628028074",
+    "project_id": "my-applicationghgh",
+    "storage_bucket": "my-applicationghgh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24628028074:android:2e5b2eb0988de7ca9b26d3",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationghgh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24628028074-78lgifiqdrr1aauv07pvngq7786roste.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuG-3x6unMYe3VEXcOxiiow_oNVN0I_1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24628028074-78lgifiqdrr1aauv07pvngq7786roste.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

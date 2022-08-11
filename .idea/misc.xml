@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Umair Shah/AndroidStudioProjects/MyApplicationghgh/app/src/main/res/drawable/dw_activity_bg.xml" value="0.2595" />
+        <entry key="..\:/Users/Umair Shah/AndroidStudioProjects/MyApplicationghgh/app/src/main/res/drawable/ic_back.xml" value="0.124" />
+        <entry key="..\:/Users/Umair Shah/AndroidStudioProjects/MyApplicationghgh/app/src/main/res/drawable/ic_et_back.xml" value="0.124" />
+        <entry key="..\:/Users/Umair Shah/AndroidStudioProjects/MyApplicationghgh/app/src/main/res/drawable/ic_group_648.xml" value="0.2595" />
+        <entry key="..\:/Users/Umair Shah/AndroidStudioProjects/MyApplicationghgh/app/src/main/res/drawable/ic_lock.xml" value="0.2595" />
+        <entry key="..\:/Users/Umair Shah/AndroidStudioProjects/MyApplicationghgh/app/src/main/res/drawable/ic_mail.xml" value="0.2595" />
+        <entry key="..\:/Users/Umair Shah/AndroidStudioProjects/MyApplicationghgh/app/src/main/res/drawable/ic_rectangle_1594.xml" value="0.2595" />
+        <entry key="..\:/Users/Umair Shah/AndroidStudioProjects/MyApplicationghgh/app/src/main/res/layout/activity_bmi.xml" value="0.1" />
+        <entry key="..\:/Users/Umair Shah/AndroidStudioProjects/MyApplicationghgh/app/src/main/res/layout/activity_dashboard.xml" value="0.152" />
+        <entry key="..\:/Users/Umair Shah/AndroidStudioProjects/MyApplicationghgh/app/src/main/res/layout/activity_dietln.xml" value="0.2" />
+        <entry key="..\:/Users/Umair Shah/AndroidStudioProjects/MyApplicationghgh/app/src/main/res/layout/activity_khali.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Umair Shah/AndroidStudioProjects/MyApplicationghgh/app/src/main/res/layout/activity_list.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Umair Shah/AndroidStudioProjects/MyApplicationghgh/app/src/main/res/layout/activity_main.xml" value="0.136" />
+        <entry key="..\:/Users/Umair Shah/AndroidStudioProjects/MyApplicationghgh/app/src/main/res/layout/activity_main2.xml" value="0.1928888888888889" />
+        <entry key="..\:/Users/Umair Shah/AndroidStudioProjects/MyApplicationghgh/app/src/main/res/layout/activity_onetime.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Umair Shah/AndroidStudioProjects/MyApplicationghgh/app/src/main/res/layout/activity_recyclermain.xml" value="0.1" />
+        <entry key="..\:/Users/Umair Shah/AndroidStudioProjects/MyApplicationghgh/app/src/main/res/layout/activity_recyclerview2.xml" value="0.1" />
+        <entry key="..\:/Users/Umair Shah/AndroidStudioProjects/MyApplicationghgh/app/src/main/res/layout/activity_recyler2.xml" value="0.264" />
+        <entry key="..\:/Users/Umair Shah/AndroidStudioProjects/MyApplicationghgh/app/src/main/res/layout/activity_rthree.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Umair Shah/AndroidStudioProjects/MyApplicationghgh/app/src/main/res/layout/activity_rv.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Umair Shah/AndroidStudioProjects/MyApplicationghgh/app/src/main/res/layout/activity_sensor.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Umair Shah/AndroidStudioProjects/MyApplicationghgh/app/src/main/res/layout/items.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Umair Shah/AndroidStudioProjects/MyApplicationghgh/app/src/main/res/layout/listtt.xml" value="0.2" />
+        <entry key="..\:/Users/Umair Shah/AndroidStudioProjects/MyApplicationghgh/app/src/main/res/layout/listview.xml" value="0.2" />
+        <entry key="..\:/Users/Umair Shah/AndroidStudioProjects/MyApplicationghgh/app/src/main/res/layout/r1.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Umair Shah/AndroidStudioProjects/MyApplicationghgh/app/src/main/res/layout/recycler.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
